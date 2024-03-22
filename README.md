@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @emrw2
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m emre
+- 👀 I’m interested in Python, asp.net, c#
+- 🌱 I’m currently learning Python, asp.net, c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - I'm a University student
